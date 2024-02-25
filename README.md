@@ -1,3 +1,5 @@
+![space](assets/space-photo.webp)
+
 # Planetary System simulation
 This is a simple planetary system simulation writing in Golang and uses the `github.com/fyne.io/fyne/v2` library for visualization. 
 
